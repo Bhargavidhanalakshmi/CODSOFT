@@ -24,4 +24,4 @@ python "to do list.py"
 
 
 ## Author
-Bhargavi DhanaLakshmi
+ BhargaviDhanaLakshmi
