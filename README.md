@@ -8,8 +8,6 @@ A simple text-based To-Do List application developed in Python for the CodeSoft 
 2. View all tasks
 3. Mark tasks as completed
 4. Delete tasks
-5. Menu-driven interface
-6. Easy to use
 
 ## Concepts Used
 - Python Lists
