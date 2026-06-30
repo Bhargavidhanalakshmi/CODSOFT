@@ -5,9 +5,11 @@ A simple text-based To-Do List application developed in Python for the CodeSoft 
 
 ## Features
 1. Add new tasks
-2. View all tasks
-3. Mark tasks as completed
+2. View tasks
+3. Update task
 4. Delete tasks
+5. Mark Task as Completed
+6. Exit
 
 ## Concepts Used
 - Python Lists
